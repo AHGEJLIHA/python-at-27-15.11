@@ -13,3 +13,7 @@
 
 3 commit, 9-11 step:
 ![image](https://user-images.githubusercontent.com/79083395/142772190-d67cd49e-d142-4a28-ae80-0cb0ed8e6390.png)
+
+Images:
+![image](https://user-images.githubusercontent.com/79083395/142773092-782ea652-4577-41a7-8d37-e2450b536905.png)
+![image](https://user-images.githubusercontent.com/79083395/142773095-be139523-22b8-481e-9832-9fd282ac4ec8.png)
