@@ -5,3 +5,4 @@ Screenshots: https://disk.yandex.ru/d/acygUZ9CBv9oJA
   
 2 commit, 8 step: 
         -Время, затраченное на работу уменьшилось на секунду по сравнению с версией программы new_filter.py, так как программа не тратит время на ввод данных.
+![image](https://user-images.githubusercontent.com/79083395/142772190-d67cd49e-d142-4a28-ae80-0cb0ed8e6390.png)
